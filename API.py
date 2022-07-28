@@ -138,7 +138,6 @@ def settings():
 
 
 stdin_fileno = sys.stdin
-stdout_fileno = sys.stdout
 
 while True:
     print('-----------------------------------------------------------------')
